@@ -72,22 +72,18 @@
                         <a href="{{ url('/home') }}">Home</a>
                     @else
                         <a href="{{ route('login') }}">Login</a>
-                        <a href="{{ route('register') }}">Register</a>
                     @endauth
                 </div>
             @endif
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Logging Apps TKD
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Documentation</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="http://titikkoma.tech/">Website</a>
+                    <a href="https://docs.google.com/spreadsheets/u/1/d/1_dsTYIzAonJG_lbLxyB6o7FNqOnHHYkr3otrrqET_7Y/edit?usp=drive_web&ouid=117923014699928340914">Team Sheet GDrive</a>
                 </div>
             </div>
         </div>
