@@ -30,7 +30,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="index.html">Logging Apps</a>
+                <a class="navbar-brand" href="index.html">Logging App</a>
             </div>
             <!-- /.navbar-header -->
 
